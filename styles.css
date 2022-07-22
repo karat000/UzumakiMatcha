@@ -1,0 +1,52 @@
+.overlay {
+	background-color: hsla(0,0%,100%,.25);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.slogan {
+	text-transform: uppercase;
+	letter-spacing: 20px;
+	text-shadow: 2px 2px #009127;
+	font-size: 20px;
+}
+
+
+.btn-primary {
+border-radius: 300px;
+padding: 15px 50px;
+background-color: #69df89;
+object-position: center;
+
+}
+
+.btn-primary:hover {
+    border-color: #31573b;
+    background-color: #31573b;
+/*    color: #31573b;*/
+}
+
+.white-text-container .btn-primary {
+    border-color: #69df89;
+    background-color: #69df89;
+    color: #fff;
+}
+
+
+
+.icons{
+	color: white;
+	margin-top: 15px;
+}
+
+.signup{
+	margin: 0px auto;
+	width: 30%;
+	text-align: center;
+	display: block;
+	}
+
+
